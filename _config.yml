@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a law firm.
+description: Jekyll template with example.
 author:
   name:
   email:
@@ -18,7 +18,7 @@ author:
 social:
   name: Justice Template
   links:
-    - https://github.com/CloudCannon/justice-jekyll-template
+    - https://github.com/byambaa1982
 
 # -----
 # Build
