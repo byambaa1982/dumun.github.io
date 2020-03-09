@@ -4,7 +4,7 @@ date: 2020-03-09 00:00:00
 categories:
   - Painting
 author_staff_member: jane-doe
-image: "https://unsplash.it/600/450?image=737&a=.png"
+image: "/images/paint1.jpeg"
 large_header: false
 ---
 
