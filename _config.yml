@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Justice Template
+title: byamba enkhbat
 url: "https://thedumun.com"
 baseurl: 
 google_analytics_key:
@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example.
+description: coderjs template with example.
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Justice Template
+  name: byamba enkhbat
   links:
     - https://github.com/byambaa1982
 
