@@ -1,10 +1,10 @@
 ---
-title: Real Estate Flipping
+title: House Painting
 date: 2016-11-11 00:00:00
 categories:
   - Property
 author_staff_member: john-doe
-image: "https://unsplash.it/600/450?image=448&a=.png"
+image: "/images/paint3.jpeg"
 large_header: false
 ---
 
